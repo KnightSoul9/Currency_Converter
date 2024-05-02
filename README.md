@@ -66,6 +66,9 @@ const API_KEY = 'YOUR_API_KEY_HERE';
         .then((res) => setData(res[currency]))//storing the converted json data in a usestate nopt using the regular variable coz it will not get updated in the UI 
         console.log(data);
 ```
+## Acknowledgements
+
+Special thanks to Hitesh Choudhary and his YouTube channel "Chai aur Code" for the helpful tutorial videos that guided and inspired the development of this project.
 
 ## Contributing
 
